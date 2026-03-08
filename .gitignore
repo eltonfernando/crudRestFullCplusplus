@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
-
+build/
+deps/
+pg_data/
 # Compiled Object files
 *.slo
 *.lo
